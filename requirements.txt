@@ -1,0 +1,13 @@
+transformers==4.34.1
+permsc==0.0.5
+pydantic==1.10.13
+python-tsp==0.4.0
+accelerate==0.24.1
+editdistance
+geopandas==0.14.1
+matplotlib
+seaborn==0.13.0
+statsmodels==0.14.0
+sentencepiece~=0.1.99
+protobuf==4.25.1
+flash-attn==2.3.6
