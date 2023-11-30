@@ -14,7 +14,7 @@ This repository contains the code for our paper, "What Do Llamas Really Think? R
 pip install biasprobe
 ```
 
-2. Extract some embeddings:
+2. Extract some embeddings. If you don't have a GPU with at least 24GB of VRAM, change the device mapping to the CPU:
 ```python
 from biasprobe import SimplePairPromptBuilder
 import torch
