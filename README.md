@@ -1,5 +1,5 @@
 # BiasProbe: Probing What Llamas Really Think
-<!--[![HF Spaces](https://img.shields.io/badge/HuggingFace%20Space-online-green.svg)](https://huggingface.co/spaces/tetrisd/biasprobe)-->
+[![HF Spaces](https://img.shields.io/badge/HuggingFace%20Space-online-green.svg)](https://huggingface.co/spaces/tetrisd/biasprobe)
 [![Citation](https://img.shields.io/badge/Citation-arXiv-orange.svg)](https://github.com/castorini/biasprobe#citation)
 [![PyPi version](https://badgen.net/pypi/v/biasprobe?color=blue)](https://pypi.org/project/biasprobe)
 <!--[![Downloads](https://static.pepy.tech/badge/biasprobe)](https://pepy.tech/project/biasprobe)-->
