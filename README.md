@@ -5,7 +5,7 @@
 <!--[![Downloads](https://static.pepy.tech/badge/biasprobe)](https://pepy.tech/project/biasprobe)-->
 ![image](https://github.com/castorini/biasprobe/assets/6188572/aca7f348-a1ea-43f5-9c0e-e7a91001431a)
 
-This repository contains the code for our paper, "What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations."
+This repository contains the code for our paper, "[What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations](https://arxiv.org/abs/2311.18812)."
 
 ## Getting Started
 
@@ -67,7 +67,7 @@ This shows a bias for associating `'democrat'` and `'libertarian'` with more pos
 @article{tang2023found,
   title={What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations},
   author={Tang, Raphael and Zhang, Xinyu and Lin, Jimmy and Ture, Ferhan},
-  journal={arXiv:2311.xxxxx},
+  journal={arXiv:2311.18812},
   year={2023}
 }
 ```
