@@ -2,7 +2,7 @@
 [![HF Spaces](https://img.shields.io/badge/HuggingFace%20Space-online-green.svg)](https://huggingface.co/spaces/tetrisd/biasprobe)
 [![Citation](https://img.shields.io/badge/Citation-arXiv-orange.svg)](https://github.com/castorini/biasprobe#citation)
 [![PyPi version](https://badgen.net/pypi/v/biasprobe?color=blue)](https://pypi.org/project/biasprobe)
-<!--[![Downloads](https://static.pepy.tech/badge/biasprobe)](https://pepy.tech/project/biasprobe)-->
+[![Downloads](https://static.pepy.tech/badge/biasprobe)](https://pepy.tech/project/biasprobe)
 ![image](https://github.com/castorini/biasprobe/assets/6188572/aca7f348-a1ea-43f5-9c0e-e7a91001431a)
 
 This repository contains the code for our paper, "[What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations](https://arxiv.org/abs/2311.18812)."
