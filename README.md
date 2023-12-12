@@ -7,6 +7,8 @@
 
 This repository contains the code for our paper, "[What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations](https://arxiv.org/abs/2311.18812)."
 
+**Caveat**: The manuscript is unpublished and subject to change. Our submission will likely replace datasets with ones that are more grounded in the literature.
+
 ## Getting Started
 
 1. Install the PyPI package:
